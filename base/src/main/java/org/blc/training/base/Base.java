@@ -8,6 +8,12 @@ package org.blc.training.base;
  */
 public class Base {
 
+    /**
+     * Main est mon point de démarrage projet 
+     * <p>
+     * Nous démarrons le projet par un hello world ! 
+     * @param args pas d'argument disponible
+     */
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
