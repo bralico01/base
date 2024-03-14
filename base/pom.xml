@@ -11,7 +11,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
-        <exec.mainClass>org.blc.training.base.VolumeCube</exec.mainClass>
+        <exec.mainClass>org.blc.training.base.Types</exec.mainClass>
     </properties>
     
         
@@ -22,7 +22,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>org.blc.training.base.VolumeCube</mainClass>
+                            <mainClass>org.blc.training.base.Types</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
