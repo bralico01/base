@@ -46,6 +46,7 @@ public class Types {
         // ======================================================
         
         double square3 = Math.sqrt(3.5);
+        Double squareClass = square3;
         float squareFloat3 = (float) square3;
         System.out.println("racine de (3.5) en double = " + square3
                         + " et en float = " + squareFloat3);
@@ -72,7 +73,6 @@ public class Types {
         }else{
             System.out.println("Vous êtes au delà de 60 ans !");
         }
-        
-        
+
     }
 }
