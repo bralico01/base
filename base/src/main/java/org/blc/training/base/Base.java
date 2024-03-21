@@ -15,6 +15,6 @@ public class Base {
      * @param args pas d'argument disponible
      */
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Bonjour Raphaël depuis base !");
     }
 }
